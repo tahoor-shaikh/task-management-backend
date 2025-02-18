@@ -2,6 +2,10 @@
 
 A RESTful API backend for managing tasks with user authentication. Built with Node.js, Express, and MongoDB.
 
+## Deployed Version
+
+The API is deployed and accessible at: https://task-management-backend-app.vercel.app
+
 ## Table of Contents
 
 - [Tech Stack](#tech-stack)
